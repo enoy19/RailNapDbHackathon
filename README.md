@@ -1,4 +1,4 @@
-# railnapyolo
+# RailNap
 
 ## Project setup
 ```
